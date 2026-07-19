@@ -6,7 +6,7 @@ function Article() {
 
         <h2>On the Street in Brooklyn</h2>
 
-        <img src="/blog-image-1.jpg" alt="Woman wearing an orange dress" />
+        <img src="/blog-image-1.jpg" alt="Woman in a dress"/>
 
         <p>
           Cray ipsum, dolor sit amet consectetur adipisicing elit. Repellat
@@ -26,7 +26,7 @@ function Article() {
 
         <h2>Vintage in Vogue</h2>
 
-        <img src="/blog-image-2.jpg" alt="People wearing vintage clothing"/>
+        <img src="/blog-image-2.jpg" alt="Vintage clothing"/>
 
         <p>
           Selfies sunt, dolor sit amet consectetur adipisicing elit. Repellat
