@@ -1,0 +1,66 @@
+html {
+  border-left: 5px solid lightgray;
+}
+
+body {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 2rem;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: tomato;
+  font-size: 4rem;
+  font-weight: normal;
+}
+
+img {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+
+header nav a {
+  color: gray;
+}
+
+footer nav a,
+article a {
+  color: tomato;
+}
+
+article {
+  margin: 4rem 0;
+  border-bottom: 1px solid lightgray;
+}
+
+article h2 {
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+article p:first-of-type {
+  color: gray;
+}
+
+article p:last-of-type::first-letter {
+  float: left;
+  font-size: 6rem;
+  color: lightgray;
+}
+
+article a {
+  display: block;
+  text-align: right;
+  font-weight: bold;
+}
+
+footer p {
+  color: gray;
+}
